@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ilona
 -     This page is a work in progress, but a few key notes about me:
 - 👀 I’m interested in anything data analytics and machine learning
-- 🌱 Have Python, R, SQL, Tableau, Excel, collaboration, presentation, critical thinking, & bias awareness...
+- 🌱 Have Python, R, SQL, Tableau, Excel, collaboration, presentation, critical thinking, excellent writing skills, & bias awareness...
+- Reach out if you have a project for me!
 - 📫 izsolnay@proton.me
 - 📎 in/ilona-zsolnay
 
